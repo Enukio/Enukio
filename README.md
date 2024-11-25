@@ -11,7 +11,8 @@
 
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
-
+- 💻 Focused on specific technologies or programming languages such as **Python, JavaScript, etc.**
+- 📚 Continuously learning and building **cool projects.**
 - ⚡ Fun fact **I think I am funny**
 
 <br/>
