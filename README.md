@@ -25,8 +25,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enukio&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=enukio&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enukio&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=enukio&theme=tokyonight" height="150"/>
 </p>
 
 ---
